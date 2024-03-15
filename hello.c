@@ -1,4 +1,4 @@
-#incldue <stdio.h>
+#include <stdio.h>
 
 int main()
 {
@@ -8,5 +8,5 @@ int main()
 	printf("hello world4");
 	
 	
-	reutrn 0;
+	return 0;
 }
